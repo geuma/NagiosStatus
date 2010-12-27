@@ -1,0 +1,19 @@
+NagiosStatus
+(c) 2010 Stefan Heumader
+email: stefan@heumader.at
+webpage: http://nagiosstatus.urandom.at
+
+INTRODUCTION
+------------
+NagiosStatus is a Perl Module, which examines WARNINGS and CRITICALS from a Nagios system. It can be used to create simple Webpages for your own purposes, which show those two alert types. Nagios itself doesn't support this. This Module parses the status.dat file from Nagios, instead of parsing the logfiles.
+
+See http://www.perl.org for more details on Perl
+and http://www.nagios.org/ for more details on Nagios.
+
+BUGS & FEATURES
+---------------
+Email me if you find bugs or if you have some ideas for
+improvements. <stefan@heumader.at>
+
+
+Stefan Heumader
