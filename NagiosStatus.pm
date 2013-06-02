@@ -1,7 +1,7 @@
 package NagiosStatus;
 #
 # NagiosStatus.pm
-# Copyright (C) 2010-2011 Stefan Heumader <stefan@heumader.at>
+# Copyright (C) 2010-2013 Stefan Heumader <stefan@heumader.at>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
